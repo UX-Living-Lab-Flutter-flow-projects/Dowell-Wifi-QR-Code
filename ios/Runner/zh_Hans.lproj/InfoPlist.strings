@@ -1,0 +1,6 @@
+NSLocationWhenInUseUsageDescription = "Wifi QR 码需要您的位置以进行分析";
+NSPhotoLibraryUsageDescription = "Wifi QR 码需要访问照片库才能为您定制体验";
+ACCESSNETWORKSTATE = "Wifi二维码需要访问您的网络状态才能获取wifi信息";
+ACCESSWIFISTATE = "Wifi二维码需要访问您的wifi状态才能获取wifi信息";
+CHANGEWIFISTATE = "Wifi 二维码需要更改您的 wifi 状态才能验证 wifi 连接";
+INTERNET = "Wifi 二维码需要互联网才能连接到您的 wifi";

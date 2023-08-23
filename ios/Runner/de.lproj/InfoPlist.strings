@@ -1,0 +1,6 @@
+NSLocationWhenInUseUsageDescription = "Der WLAN-QR-Code benötigt Ihren Standort für Analysezwecke";
+NSPhotoLibraryUsageDescription = "Der WLAN-QR-Code benötigt Zugriff auf die Fotobibliothek, um das Erlebnis individuell auf Sie abzustimmen";
+ACCESSNETWORKSTATE = "Der WLAN-QR-Code benötigt Zugriff auf Ihren Netzwerkstatus, um WLAN-Informationen zu erhalten";
+ACCESSWIFISTATE = "Der WLAN-QR-Code benötigt Zugriff auf Ihren WLAN-Status, um WLAN-Informationen zu erhalten";
+CHANGEWIFISTATE = "Der WLAN-QR-Code muss Ihren WLAN-Status ändern, um die WLAN-Verbindung zu überprüfen";
+INTERNET = "Der WLAN-QR-Code benötigt Internet, um eine Verbindung zu Ihrem WLAN herzustellen";

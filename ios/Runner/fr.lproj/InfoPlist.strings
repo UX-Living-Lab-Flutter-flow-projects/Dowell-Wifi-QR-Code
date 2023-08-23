@@ -1,0 +1,6 @@
+NSLocationWhenInUseUsageDescription = "Le code QR Wifi a besoin de votre emplacement à des fins d'analyse";
+NSPhotoLibraryUsageDescription = "Le code QR Wifi a besoin d'un accès à la photothèque pour personnaliser l'expérience pour vous";
+ACCESSNETWORKSTATE = "Le code QR Wifi a besoin d'accéder à l'état de votre réseau pour obtenir des informations sur le wifi";
+ACCESSWIFISTATE = "Le code QR Wi-Fi a besoin d'accéder à votre état Wi-Fi pour obtenir des informations sur le Wi-Fi";
+CHANGEWIFISTATE = "Le code QR Wifi doit changer votre état wifi pour vérifier la connexion wifi";
+INTERNET = "Le code QR Wifi a besoin d'Internet pour se connecter à votre wifi";

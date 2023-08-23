@@ -1,0 +1,6 @@
+NSLocationWhenInUseUsageDescription = "Wifi QR Code needs your location for analytics purposes";
+NSPhotoLibraryUsageDescription = "Wifi QR Code needs access to photo library to customize the experience for you";
+ACCESSNETWORKSTATE = "Wifi QR Code needs access to your network state to get wifi information";
+ACCESSWIFISTATE = "Wifi QR Code needs access to your wifi state to get wifi information";
+CHANGEWIFISTATE = "Wifi QR Code needs to change your wifi state to verify wifi connection";
+INTERNET = "Wifi QR Code needs internet to connect to your wifi";
