@@ -20,10 +20,12 @@ class AppBarComponent extends StatefulWidget {
     required this.onSettings,
     required this.profileImg,
     required this.orgImg,
+    this.sessionId,
   }) : super(key: key);
 
   final double? width;
   final double? height;
+  final String? sessionId;
   final Future<dynamic> Function() onHome;
   final Future<dynamic> Function() onExit;
   final Future<dynamic> Function() onPrivacy;
@@ -39,9 +41,9 @@ class _AppBarComponentState extends State<AppBarComponent> {
   Widget build(BuildContext context) {
     return Container(
         height: 50,
-        color: FFAppState().sessionId != null
-            ? const Color.fromARGB(255, 42, 131, 45)
-            : Colors.red,
+        color: widget.sessionId == null || widget.sessionId!.length < 4
+            ? Colors.red
+            : const Color.fromARGB(255, 42, 131, 45),
         child: Row(mainAxisAlignment: MainAxisAlignment.spaceAround, children: [
           IconButton(
               onPressed: () {

@@ -1,4 +1,4 @@
-package com.dowell.wifiqrcode
+package DoWell.wifiqrcode
 
 import io.flutter.embedding.android.FlutterActivity
 

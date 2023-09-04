@@ -8,7 +8,7 @@
 PRODUCT_NAME = DowellWifiQRCode
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.dowell.wifiqrcode
+PRODUCT_BUNDLE_IDENTIFIER = DoWell.wifiqrcode
 
 // The copyright displayed in application information
 PRODUCT_COPYRIGHT = Copyright © 2022 DowellWifiQRCode. All rights reserved.
