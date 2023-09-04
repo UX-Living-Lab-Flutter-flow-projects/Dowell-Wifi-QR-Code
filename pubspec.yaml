@@ -70,8 +70,9 @@ dependencies:
   webview_flutter_platform_interface: 2.0.2
   webview_flutter_wkwebview: 3.1.1
   webviewx_plus: 0.3.3
-  wifi_iot:
-  wifi_scan:
+  wifi_iot: ^0.3.18+1
+  wifi_scan: ^0.4.0+2
+  location: ^5.0.3
 
 
   # The following adds the Cupertino Icons font to your application.

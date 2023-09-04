@@ -51,6 +51,11 @@
 
 	<key>NSLocationWhenInUseUsageDescription</key>
     <string>In order to search nearby, this app requires access to your current location.</string>
+    <key>NSLocationAlwaysUsageDescription</key>
+    <string>We need your location to scan for Wi-Fi networks.</string>
+    <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+    <string>We need your location to scan for Wi-Fi networks.</string>
+
 	<key>NSPhotoLibraryUsageDescription</key>
     <string>Wifi QR Code needs access to photo library to customize the experience for you</string>
 	<key>ACCESSNETWORKSTATE</key>
@@ -83,5 +88,9 @@
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
 
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
 </dict>
 </plist>
